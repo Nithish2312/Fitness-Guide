@@ -1,6 +1,6 @@
 # Fitness_Guide
 
-A new Flutter application.
+This Flutter Application is developed for Apptitude Hackathon.
 
 My YouTube Video: https://youtu.be/Nv-VKdUg1vU
 
